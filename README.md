@@ -1,6 +1,6 @@
 # Hi, I'm Gillian 👋
 
-### AI Engineer | Data Engineer | Analytics Engineer
+### AI Engineer | Data Engineer | Analytics Engineer | Minecrafter  
 
 I build **end-to-end AI systems** across machine learning, LLM applications, data pipelines, backend services, and deployment.
 
